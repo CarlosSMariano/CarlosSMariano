@@ -46,7 +46,7 @@
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="Eclipse logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Neteans/Netbeans-original.svg" height="30" alt="NetBeans logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Netbeans/Netbeans-original.svg" height="30" alt="NetBeans logo" />
 </div>
 
 
