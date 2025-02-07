@@ -38,11 +38,11 @@
 
 <h3 aling="left">My IDEs</h3>
 <div aling="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VsCode logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="Eclipse logo"  />
   <img width="8" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="30" alt="PHP logo"  />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netBeans/netBeans-original.svg" height="30" alt="NetBenas logo"  />
 </div>
 
 
