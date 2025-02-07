@@ -27,13 +27,10 @@ jobs:
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}     
-        # ... output paths (as you had them)
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
-            dist/github-contribution-grid-snake-red.svg 
-            dist/github-contribution-grid-snake-red-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
           
       # push the content of <build_dir> to a branch
