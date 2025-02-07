@@ -6,10 +6,7 @@
   <h3>About Me</h3>
   <br>
   <p>
-    Sou estudante de Engenharia de Software na FIAP - Faculdade de Informática e Administração Paulista, atualmente no 1º semestre. Anteriormente, cursei Análise e Desenvolvimento de Sistemas, onde adquiri conhecimentos sólidos em programação, desenvolvimento de software e gestão de projetos.
-  </p>
-  <p>
-    Além disso, concluí o curso técnico de Análise e Desenvolvimento de Sistemas na Escola Estadual Eugênio Mariz de Oliveira Netto, em parceria com a Escola Sequencial. Durante esse período, fui responsável por idealizar e gerenciar o projeto do site <a href="http://www.eugeniomariz.com.br" target="_blank">www.eugeniomariz.com.br</a>, atuando principalmente no desenvolvimento do back-end.
+    Sou estudante de Engenharia de Software na FIAP - Faculdade de Informática e Administração Paulista, atualmente no 1º semestre. Concluí o curso técnico de Análise e Desenvolvimento de Sistemas na Escola Estadual Eugênio Mariz de Oliveira Netto, em parceria com a Escola Sequencial, onde adiquiri conhecimentos solidos em programação, desenvolvimento de softwares. Durante esse período, fui responsável por idealizar e gerenciar o projeto do site <a href="http://www.eugeniomariz.com.br" target="_blank">www.eugeniomariz.com.br</a>, atuando principalmente no desenvolvimento do back-end.
   </p>
   <p>
     Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir meus conhecimentos em tecnologia e desenvolvimento de software.
