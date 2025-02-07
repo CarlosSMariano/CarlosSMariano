@@ -3,7 +3,7 @@
 #
 <div style="text-aling: center;" aling="center">
   <h3> About Me </h3>
-
+  <br>
   <p>
     Estudante de Engenharia de software na FIAP - Faculdade de Informática e Administração Paulista 1 semestre. Cursei Analise e desenvolvimento de sistemas
   </p>
@@ -15,7 +15,7 @@
 
 
 <div style="text-align: center;" align="center">
-  <h3>* GitHub Stats *</h3>
+  <h3> GitHub Stats </h3>
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarlosSMariano&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
 
