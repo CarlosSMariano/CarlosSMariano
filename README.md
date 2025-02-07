@@ -3,7 +3,7 @@
 #
 
 <div style="text-align: center;" align="center">
-  <h3 style=" border: 2px solid #ffffff;">About Me</h3>
+  <h3 style=" color = red; ">About Me</h3>
   <br>
 </div>
   
