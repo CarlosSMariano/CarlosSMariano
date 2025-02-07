@@ -3,14 +3,11 @@
 #
 
 <div style="text-align: center;" align="center">
-  <h3>About Me</h3>
+  <h3 style=" border: 2px solid #ffffff;">About Me</h3>
   <br>
 </div>
   
- <div style="text-align: justify;" align="center">
-  <h3>About Me</h3>
-  <br>
-  <p>
+  <p style="text-aling: justify">
     Sou estudante de Engenharia de Software na FIAP - Faculdade de Informática e Administração Paulista, atualmente no 1º semestre. Concluí o curso técnico de Análise e Desenvolvimento de Sistemas na Escola Estadual Eugênio Mariz de Oliveira Netto, em parceria com a Escola Sequencial, onde adquiri conhecimentos sólidos em lógica de programação, programação orientada a objetos, boas práticas de desenvolvimento, trabalho em equipe e gestão de projetos. Minha especialização é em desenvolvimento web, com ênfase em back-end.
   </p>
   <p>
