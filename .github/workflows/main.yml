@@ -34,11 +34,11 @@ jobs:
             grid: "#8B0000"       
             dots: "#FFA07A"        
         # ... output paths (as you had them)
-        outputs: |
-          dist/github-contribution-grid-snake.svg
-          dist/github-contribution-grid-snake-dark.svg
-          dist/github-contribution-grid-snake-red.svg 
-          dist/github-contribution-grid-snake-red-dark.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-red.svg 
+            dist/github-contribution-grid-snake-red-dark.svg
           
           
       # push the content of <build_dir> to a branch
