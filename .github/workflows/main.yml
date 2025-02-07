@@ -49,19 +49,20 @@ jobs:
     steps:
 
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
-   steps:
-      - uses: actions/checkout@v3  # Important: Checkout the repository
 
-      - name: generate github-contribution-grid-snake.svg
-        uses: Platane/snk@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          # Use a custom theme file
-          theme: |
-            background: "#000000"  # Black background
-            snake: "#FF0000"        # Red snake
-            grid: "#8B0000"         # Darker red grid (optional)
-            dots: "#FFA07A"         # Light Salmon for dots (optional)
+      - name: generate github-contribution-grid-snake.svg
+
+        uses: Platane/snk/svg-only@v3
+
+        with:
+
+          github_user_name: ${{ github.repository_owner }}
+
+          outputs: |
+
+            dist/github-contribution-grid-snake.svg
+
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
           
 
@@ -84,5 +85,4 @@ jobs:
         env:
 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
  
