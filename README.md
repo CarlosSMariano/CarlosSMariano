@@ -27,7 +27,7 @@
 <img width="30">
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/mari4souza/)
 <img width="30"/>
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/mari4.souza/)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)]([https://www.instagram.com/mari4.souza/](https://www.instagram.com/ssanches.zsc?igsh=MzNzbjE1eXhkZWRo))
 </div>
 
 #
@@ -66,12 +66,13 @@
 <div style="text-align: center;" align="center">
   <h3> GITHUB STATS 📈</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarlosSMariano&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF0000&text_color=FFF&border_radius=3&border_color=8B0000&icon_color=FF0000&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarlosSMariano&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=800080&text_color=FFF&border_radius=3&border_color=4B0082&icon_color=800080&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/CarlosSMariano/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarlosSMariano&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF0000&hide=html,scss,less&bg_color=000&text_color=FFA07A&border_radius=3&border_color=800000&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarlosSMariano&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=800080&hide=html,scss,less&bg_color=000&text_color=DDA0DD&border_radius=3&border_color=4B0082&count_private=true" alt="Most Used Languages">
   </a>
 </div>
+
 
 #
 
