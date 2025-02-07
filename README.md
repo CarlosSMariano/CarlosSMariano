@@ -3,7 +3,7 @@
 #
 
 <div style="text-align: center;" align="center">
-  <h3>ABOUT ME</h3>
+  <h3><ABOUT ME></h3>
   <br>
 </div>
   
