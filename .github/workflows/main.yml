@@ -25,15 +25,9 @@ jobs:
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
       - name: generate github-contribution-grid-snake.svg
-      - uses: Platane/snk/svg-only@v3
-  # Use the full snk action, NOT svg-only
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: ${{ github.repository_owner }}
-          theme: |  # Define a custom theme HERE
-            background: "#000000"  
-            snake: "#FF0000"        
-            grid: "#8B0000"       
-            dots: "#FFA07A"        
+          github_user_name: ${{ github.repository_owner }}     
         # ... output paths (as you had them)
           outputs: |
             dist/github-contribution-grid-snake.svg
