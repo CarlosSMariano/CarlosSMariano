@@ -8,13 +8,13 @@
 </div>
   
   <p style="text-aling: justify">
-    Estudante de Engenharia de Software na FIAP - Faculdade de Informática e Administração Paulista, atualmente no 1º semestre. Concluí o curso técnico de Análise e Desenvolvimento de Sistemas na Escola Estadual Eugênio Mariz de Oliveira Netto, em parceria com a Escola Sequencial, onde adquiri conhecimentos sólidos em lógica de programação, programação orientada a objetos, boas práticas de desenvolvimento, trabalho em equipe e gestão de projetos. Minha especialização é em desenvolvimento web, com ênfase em back-end.
+    Estudante de Engenharia de Software na FIAP - Faculdade de Informática e Administração Paulista, atualmente no 1º semestre. Ensino médio técnico de Análise e Desenvolvimento de Sistemas na Escola Estadual Eugênio Mariz de Oliveira Netto, em parceria com a Escola Sequencial, onde adquiri conhecimentos sólidos em lógica de programação, programação orientada a objetos, boas práticas de desenvolvimento, trabalho em equipe e gestão de projetos. Minha especialização é em desenvolvimento web, com ênfase em back-end.
   </p>
   <p>
-    Durante o curso técnico, fui responsável por idealizar e gerenciar o projeto do site <a href="http://www.eugeniomariz.com.br" target="_blank">www.eugeniomariz.com.br</a>, atuando principalmente no desenvolvimento do back-end, em colaboração com as equipes de front-end e design/UX. Essa experiência me permitiu consolidar habilidades técnicas e de gestão, além de compreender a importância do trabalho multidisciplinar em projetos de tecnologia.
+    Durante o curso técnico, fui responsável por idealizar e gerenciar o projeto do site <a href="http://www.eugeniomariz.com.br" target="_blank">www.eugeniomariz.com.br</a>, atuando principalmente no desenvolvimento do back-end, em colaboração com as equipes de front-end e design/UX. Essa experiência me permitiu aprimorar habilidades técnicas e de gestão, além de compreender a importância do trabalho multidisciplinar em projetos de tecnologia.
   </p>
   <p>
-    Estou sempre em busca de novos desafios e oportunidades para aplicar e expandir meus conhecimentos em tecnologia e desenvolvimento de software, contribuindo para projetos inovadores e de impacto.
+    Em busca de novos desafios para expandir e aplicar meus conhecimentos em tecnologia e desenvolvimento de software e me tornar um grande DEV. Acompanhe minha jornada ao topo!
   </p>
 </div>
  
@@ -45,8 +45,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VsCode logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="Eclipse logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="30" alt="NetBeans logo" />
 </div>
 
 
