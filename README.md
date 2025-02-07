@@ -1,5 +1,19 @@
 # README
 
+#
+<div style="text-aling: center;" aling="center">
+  <h3> About Me </h3>
+
+  <p>
+    Estudante de Engenharia de software na FIAP - Faculdade de Informática e Administração Paulista 1 semestre. Cursei Analise e desenvolvimento de sistemas
+  </p>
+
+</div>
+
+
+#
+
+
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
