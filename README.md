@@ -23,11 +23,11 @@
 <h3>🚀Follow me!</h3>
 
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:sanchesmariacocarlos@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Gmail-ff9b99?style=for-the-badge&logo=gmail&logoColor=ff9b99fcolor:FFF)](mailto:sanchesmariacocarlos@gmail.com)
 <img width="30">
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/carlos-eduardo-sanches-mariano-b22775293)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=black")](https://www.linkedin.com/in/carlos-eduardo-sanches-mariano-b22775293)
 <img width="30"/>
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ssanches.zsc)
+[![Instagram](https://img.shields.io/badge/-Instagram-fbad50?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ssanches.zsc)
 </div>
 
 #
