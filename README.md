@@ -55,8 +55,10 @@
 <h3 aling="left">🖥️My IDEs~</h3>
 <div aling="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VsCode logo"  />
-  <img width="8" />
+   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="Eclipse logo"  />
+   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="IntelliJ logo"  />
 </div>
 
 
