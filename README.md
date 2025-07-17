@@ -2,90 +2,81 @@
    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=800080&lines=Welcome!+👋;+I'm+Sanches!;+Nice+to+meet+you+😊" />
 </h1>
 
-<div style="text-align: center;" align="center">
-  <h3>🧠ABOUT ME</h3>
-  <br>
+<div align="center">
+  <h2>Follow Me 🚀</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <a href="https://www.linkedin.com/in/carlossmariano" style="text-decoration: none;">
+        <img alt="LinkedIn" title="Connect with me on LinkedIn"
+             src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=282A36" />
+    </a>
+    
+  <a href="mailto:sanchesmarianocarlos@gmail.com" style="text-decoration: none;">
+        <img alt="Gmail" title="Send me an email"
+             src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=282A36" />
+    </a>
+
+  <a href="https://www.instagram.com/ssanches.zsc" style="text-decoration: none;">
+        <img alt="Instagram" title="Follow me on Instagram"
+             src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=FF0069&labelColor=282A36" />
+    </a>
+  </div>
 </div>
-  
+
+---
+
+  <h2 align="center">🧠ABOUT ME</h2>
+
   <p style="text-aling: justify">
-    Estudante de Engenharia de Software na FIAP👨‍💻- Faculdade de Informática e Administração Paulista, atualmente no 1º semestre. Ensino médio técnico de Análise e Desenvolvimento de Sistemas na Escola Estadual Eugênio Mariz de Oliveira Netto, em parceria com a Escola Sequencial, onde adquiri conhecimentos sólidos em lógica de programação, programação orientada a objetos, boas práticas de desenvolvimento, trabalho em equipe e gestão de projetos. Minha especialização é em desenvolvimento web, com ênfase em back-end.
+    Estudante de Engenharia de Software na FIAP👨‍💻- Faculdade de Informática e Administração Paulista, atualmente no 2º semestre. Ensino médio técnico de Análise e Desenvolvimento de Sistemas na Escola Estadual Eugênio Mariz de Oliveira Netto, em parceria com a Escola Sequencial, onde adquiri conhecimentos sólidos em lógica de programação, programação orientada a objetos, boas práticas de desenvolvimento, trabalho em equipe e gestão de projetos.
   </p>
   <p>
-    Durante o curso técnico, fui responsável por idealizar e gerenciar o projeto do site <a href="http://www.eugeniomariz.com.br" target="_blank">www.eugeniomariz.com.br</a>, atuando principalmente no desenvolvimento do back-end, em colaboração com as equipes de front-end e design/UX. Essa experiência me permitiu aprimorar habilidades técnicas e de gestão, além de compreender a importância do trabalho multidisciplinar em projetos de tecnologia.
+    Em busca de novos desafios para expandir e aplicar meus conhecimentos em tecnologia e desenvolvimento de software e me tornar um grande DEV. Acompanhe minha jornada ao topo!🤟
   </p>
-  <p>
-    Em busca de novos desafios para expandir e aplicar meus conhecimentos em tecnologia e desenvolvimento de software e me tornar um grande DEV. Acompanhe minha jornada ao topo!
-  </p>
-</div>
- 
-#
-<div style="text-align: center;" align="center">
-<h3>🚀Follow me!</h3>
 
-
-[![E-mail](https://img.shields.io/badge/-Gmail-ff9b99?style=for-the-badge&logo=gmail&logoColor=ff9b99fcolor:FFF)](mailto:sanchesmariacocarlos@gmail.com)
-<img width="30">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=black")](https://www.linkedin.com/in/carlos-eduardo-sanches-mariano-b22775293)
-<img width="30"/>
-[![Instagram](https://img.shields.io/badge/-Instagram-fbad50?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/ssanches.zsc)
 </div>
 
-#
+---
 
-<h3 aling="left">🤓My Stacks~</h3>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="8" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node logo"  />
+<div align="center">
+<h2>🤓 My Stacks</h2>
+
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+ <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" />
+  <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Fedora" src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+</div>
+
+
+---
+
+<div align="center">
+  <h2>🪐GITHUB STATS🪐</h2>
   <br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git logo"  />
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=CarlosSMariano&show_icons=true&locale=en&theme=blueberry&rank_icon=github" alt="GitHub Stats"/>
+
+  <img height="140em" src="https://github-readme-streak-stats.herokuapp.com?user=CarlosSMariano&theme=blueberry" alt="Streak Stats"/> 
+
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosSMariano&theme=blueberry&layout=compact&card_width=100" alt="Top Languages"/>
+  </div>
 </div>
 
-<h3 aling="left">🖥️My IDEs~</h3>
-<div aling="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VsCode logo"  />
-   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="30" alt="Eclipse logo"  />
-   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="IntelliJ logo"  />
-</div>
-
-
-#
-
-
-<div style="text-align: center;" align="center">
-  <h3> GITHUB STATS 📈</h3>
-  <br>
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CarlosSMariano&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=800080&text_color=FFF&border_radius=3&border_color=4B0082&icon_color=800080&theme=jolly" alt="GitHub stats">
-
-  <!-- Top Languages -->
-  <a href="https://github.com/CarlosSMariano/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CarlosSMariano&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=800080&hide=html,scss,less&bg_color=000&text_color=DDA0DD&border_radius=3&border_color=4B0082&count_private=true" alt="Most Used Languages">
-  </a>
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=CarlosSMariano&theme=default&background=000000&ring=800080&fire=800080&currStreakLabel=800080&sideNums=DDA0DD&dates=DDA0DD&sideLabels=DDA0DD" alt="Streak Stats" width="49%" />
-</div>
-
-
-#
+---
 
 <picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosSMariano/CarlosSMariano/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosSMariano/CarlosSMariano/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CarlosSMariano/CarlosSMariano/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CarlosSMariano/CarlosSMariano/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CarlosSMariano/CarlosSMariano/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/CarlosSMariano/CarlosSMariano/output/pacman-contribution-graph.svg">
 </picture>
-
+ 
