@@ -55,7 +55,7 @@
 ---
 
   <h2>📚 Current Learning</h2>
-  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=spring,docker" />
 </div>
 
 
